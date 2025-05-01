@@ -1,3 +1,9 @@
 CHESS_USERNAME = ''
-NOTION_API_TOKEN = ''
-CHESS_DATABASE_ID = ''
+CHESS_DATABASE_NAME = ''
+POSTGRES_DB_CONN = {
+    'HOST': '',
+    'USER': '',
+    'PASSWORD': '',
+    'DB': '',
+    'PORT': ''
+}

@@ -1,5 +1,7 @@
-# Manual ignored archives
+# Manually ignored archives
 config.py
+Scripts/
+pyvenv.cfg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
